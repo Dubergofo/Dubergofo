@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Creating Firewall Rules on Windows and Linux](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating Firewall Rules on Windows and Linux]()
 
 
 <h2> 💻Popular YouTube Videos</h2>
